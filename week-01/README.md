@@ -1,4 +1,4 @@
-Week 01 
+## Week 01 
 
 Day 01 - Environment Setup & the Jupyter Workflow
 [19, Monday]

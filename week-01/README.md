@@ -1,5 +1,16 @@
-## Week 01 
+<div align="center">
 
+# 📊 Week 01 — Data Science Foundations 
+
+</div>
+
+  ## 📑 Table of Contents
+  - [Day 01 - Environment Setup & the Jupyter Workflow](#day-01---environment-setup--the-jupyter-workflow)
+- [Day 02 - Python for Data Science](#day-02---python-for-data-science)
+- [Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)
+- [Day 04 - Pandas: Tabular Data](#day-04---pandas-tabular-data)
+
+----
 
 ### Day 01 - Environment Setup & the Jupyter Workflow
 
@@ -26,9 +37,9 @@
 **Challenges:**
 - dealing with git commands through the terminal.
 
-**Related Files:** Notebook1.ipynb, requirements.txt
+**Related Files:** `Notebook1.ipynb`, `requirements.txt`
 
-*******************
+----
 
 ### Day 02 - Python for Data Science
 *[20, Monday]*
@@ -54,9 +65,9 @@
 -	Dealing with new environments and programming languages.
 -	Avoiding syntax errors.
   
-**Related Files:** Notebook2.ipynb
+**Related Files:** `Notebook2.ipynb`
 
-****************************
+----
 
 ### Day 03 - NumPy: Numerical Computing
 *[21, Tuesday]*
@@ -81,9 +92,9 @@
 
 **Challenges:** N/A
 
-**Related files:** Notebook3.ipynb
+**Related files:** `Notebook3.ipynb`
 
------------
+----
 
 ### Day 04 - Pandas: Tabular Data 
 *[22, Wednesday]*
@@ -109,6 +120,6 @@
 **Challenges:**
 - learning aggregation
 
-**Related files:** Notebook4.ipynb
+**Related files:** `Notebook4.ipynb`
 
-____________   
+____

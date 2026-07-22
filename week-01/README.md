@@ -1,7 +1,7 @@
 ## Week 01 
 
 
-### <font color="#4A6FA5">Day 01 - Environment Setup & the Jupyter Workflow</font>
+### $\textcolor{blue}{\text{Day 01 - Environment Setup}}$
 
 *[19, Monday]*
 *2026-07-19*

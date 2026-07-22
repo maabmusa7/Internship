@@ -1,7 +1,7 @@
 ## Week 01 
 
 
-### <span style="color:#4A6FA5">Day 01 - Environment Setup & the Jupyter Workflow</span>
+### Day 01 - Environment Setup & the Jupyter Workflow
 
 *[19, Monday]*
 *2026-07-19*
@@ -83,7 +83,7 @@
 
 **Related files:** Notebook3.ipynb
 
-
+-----------
 
 ### Day 04 - Pandas: Tabular Data 
 *[22, Wednesday]*
@@ -110,3 +110,5 @@
 - learning aggregation
 
 **Related files:** Notebook4.ipynb
+
+____________   

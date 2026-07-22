@@ -105,7 +105,7 @@
 - Count missing values per column and handle them with a a documented justification.
 - Filter the data to a meaningful subset and describe the findings.
 - Use groupby to compute and aggregate statistic per category and interpret the result in a markdown cell.
-- 
+  
 **What i did:**
 - Watched part 4 from Data science playlist.
 - Studeied the W3shcools Pandas section.

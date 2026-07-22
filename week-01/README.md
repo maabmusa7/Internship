@@ -37,7 +37,7 @@
 **Challenges:**
 - dealing with git commands through the terminal.
 
-**Related Files:** `Notebook1.ipynb`, `requirements.txt`
+**Related Files:** `Day01`
 
 ----
 
@@ -65,7 +65,7 @@
 -	Dealing with new environments and programming languages.
 -	Avoiding syntax errors.
   
-**Related Files:** `Notebook2.ipynb`
+**Related Files:** `Day02`
 
 ----
 
@@ -92,7 +92,7 @@
 
 **Challenges:** N/A
 
-**Related files:** `Notebook3.ipynb`
+**Related files:** `Day03`
 
 ----
 
@@ -120,6 +120,6 @@
 **Challenges:**
 - learning aggregation
 
-**Related files:** `Notebook4.ipynb`
+**Related files:** `Day04`
 
 ____

@@ -1,7 +1,7 @@
 ## Week 01 
 
 
-### $\textcolor{blue}{\text{Day 01 - Environment Setup}}$
+### <span style="color:#4A6FA5">Day 01 - Environment Setup & the Jupyter Workflow</span>
 
 *[19, Monday]*
 *2026-07-19*
@@ -28,7 +28,7 @@
 
 **Related Files:** Notebook1.ipynb, requirements.txt
 
-
+*******************
 
 ### Day 02 - Python for Data Science
 *[20, Monday]*
@@ -56,7 +56,7 @@
   
 **Related Files:** Notebook2.ipynb
 
-
+****************************
 
 ### Day 03 - NumPy: Numerical Computing
 *[21, Tuesday]*

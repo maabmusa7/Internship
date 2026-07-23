@@ -9,7 +9,7 @@
 - [Day 02 - Python for Data Science](#day-02---python-for-data-science)
 - [Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)
 - [Day 04 - Pandas: Tabular Data](#day-04---pandas-tabular-data)
-- [Day 05 - Matplotlib & Week 1 Mini-Notebook](#day-05---Matplotlib-&-Week-01-Mini-Notebook)
+- [Day 05 - Matplotlib & Week 1 Mini-Notebook](#day-05---Matplotlib-&-Week-01-Mini--Notebook)
 
 ----
 

@@ -39,8 +39,4 @@ Markdown cell.
 ### **📁 Related Files:** 
 - [`Notebook4.ipynb`](./Day04/Notebook4.ipynb)
 
----
 
-<div align="center">
-[← Previous Day](../Day03/README.md) · [ Next Day →](../Day05/README.md)
-</div>

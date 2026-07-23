@@ -20,23 +20,28 @@
 Week 1 covered the foundational stack for data work in Pythonstting up a reproducible environment, core Python syntax and OOP, then progressively layering in **NumPy** for numerical computing, **Pandas** for tabular data, and **Matplotlib** for visualization - culminating in an end-to-end min-noebook that loads, cleans, analyzees, and visualizes a real dataset.
 
 ## Structure
-Week01/
-├── README.md          ← 
-├── Day01/
-│   ├── README.md
-│   └── Day01.ipynb
-├── Day02/
-│   ├── README.md
-│   └── Day02.ipynb
-├── Day03/
-│   ├── README.md
-│   └── Day03.ipynb
-├── Day04/
-│   ├── README.md
-│   └── Day04.ipynb
-└── Day05/
-    ├── README.md
-    └── Day05.ipynb
+
+
+    Week01
+        README.md
+        Day01
+            Notebook1.ipynb
+            requirements.txt
+            README.md
+        Day02
+            Notebook2.ipynb
+            README.md
+        Day03
+            Notebook3.ipynb
+            README.md
+        Day04
+            Notebook4.ipynb
+            README.md
+        Day05
+            Notebook5.ipynb
+            requirements.txt
+            README.md
+
 
 
 ## 🛠️ Tech Stack

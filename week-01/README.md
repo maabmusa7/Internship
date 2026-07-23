@@ -3,7 +3,7 @@
 # 📊 Week 01 — Data Science Foundations 
 
 
-  ## 📑 Table of Contents
+## 📑 Table of Contents
 [Day 01 - Environment Setup & the Jupyter Workflow](#day-01---environment-setup--the-jupyter-workflow)
 [Day 02 - Python for Data Science](#day-02---python-for-data-science)
 [Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)

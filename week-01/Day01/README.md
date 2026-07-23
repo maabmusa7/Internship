@@ -9,7 +9,7 @@
 
 ---
 
-**✅ Tasks**
+## **✅ Tasks**
 
 - [x] Create and activate a virtual environment, then install numpy, pandas, matplotlib, and jupyter.
 - [x] Launch Jupyter and create a notebook mixing at least one Markdown cell and one code cell.
@@ -17,28 +17,23 @@
 - [x] Freeze the environment to requirements.txt.
 - [x] Initialize a Git repository, commit the notebook and requirements.txt, and push to GitHub.
 
-**🧩 What i did:**
+## **🧩 What i did:**
 - Installed Anaconda and launched Jupyter.
 - Installed Python, Jupyter, Pulance, Matplotlib extentions in VScode.
 - Froze the environment to requirements.txt.
 - Commited my first Notebook to "Internship" repository. 
 
-**📚 Materials Used:**
+## **📚 Materials Used:**
 -Anaconda & VS Code 
 
-**📖 What i learned:**
+## **📖 What i learned:**
 - Git fundamentals(init, add, commit, push)
 - Python syntax and semantics.
 - The Jupyter notebook workflow. 
 
-**🚧 Challenges:**
+## **🚧 Challenges:**
 - dealing with git commands through the terminal. 
 
-**📁 Related Files:** 
+## **📁 Related Files:** 
 - [`Notebook1.ipynb`](./Day01.ipynb)
 
----
-
-<div align="center">
-[ Next Day →](../Day02/README.md)
-</div>

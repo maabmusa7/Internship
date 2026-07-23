@@ -2,7 +2,7 @@
 
 # Day 02 - Python for Data Science
 
-*Teusday, July 20, 2026*
+*Tuesday, July 20, 2026*
 
 [← Previous Day](../Day01/README.md) · [ Next Day →](../Day03/README.md)
 </div>
@@ -37,7 +37,7 @@
 - Debugging and avoiding syntax errors.
 
 **📁 Related Files:** 
-- [`Notebook2.ipynb`](./Day01/Notebook2.ipynb)
+- [`Notebook2.ipynb`](../Notebook2.ipynb)
 
 ---
 

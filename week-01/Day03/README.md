@@ -37,9 +37,3 @@
   
 ### **📁 Related Files:** 
 - [`Notebook3.ipynb`](./Day03/Notebook3.ipynb)
-
----
-
-<div align="center">
-[← Previous Day](../Day01/README.md) · [ Next Day →](../Day03/README.md)
-</div>

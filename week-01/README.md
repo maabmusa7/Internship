@@ -9,6 +9,7 @@
 - [Day 02 - Python for Data Science](#day-02---python-for-data-science)
 - [Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)
 - [Day 04 - Pandas: Tabular Data](#day-04---pandas-tabular-data)
+- [Day 05 - Matplotlib & Week 1 Mini-Notebook](#day-05---Matplotlib-&-Week-01-Mini-Notebook)
 
 ----
 
@@ -123,3 +124,31 @@
 **Related files:** `Day04`
 
 ____
+
+***Note: this part is incomplete and will be finalized by Saturday***
+### Day 05 -  Matplotlib & Week 1 Mini-Notebook
+*[23, Thursday]*
+*2026-07-23*
+
+**Tasks:**
+- Load and clean a provided dataset with Pandas (handling any missing values).
+- Use NumPy to compute at least one derived numeric feature or summary statistic.
+- Produce at least three labeled plots (including a histogram and a scatter plot) exploring the data.
+- Write Markdown cells explaining what each visualization reveals about the data.
+- Commit the finished notebook and its requirements.txt to GitHub with a clear commit message.
+  
+**What i did:**
+- Learned Matplotlib and more details abour NumPy from w3schools.
+- Reviewed week 1 manual, Day 5 section.
+- Created a notebook for day 5 in Jupyter and completed the tasks.
+
+**What i learned:**
+- Matplotlib : data visualization.
+- Extracting and demonsttrating useful data using Numpy, Matplotlib and Pandas.
+- Presenting data in a visually appealing manner.
+- Verifying that the data is cleaned and ready to be used.
+
+**Challenges:**
+- Handling comlicated queries correctly. 
+
+**Related files:** `Day05`

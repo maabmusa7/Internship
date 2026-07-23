@@ -4,11 +4,11 @@
 
 
 ## 📑 Table of Contents
-[Day 01 - Environment Setup & the Jupyter Workflow](#day-01---environment-setup--the-jupyter-workflow)
-[Day 02 - Python for Data Science](#day-02---python-for-data-science)
-[Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)
-[Day 04 - Pandas: Tabular Data](#day-04---pandas-tabular-data)
-[Day 05 - Matplotlib & Week 1 Mini-Notebook](#day-05---Matplotlib-&-Week-01-Mini--Notebook)
+- [Day 01 - Environment Setup & the Jupyter Workflow](#day-01---environment-setup--the-jupyter-workflow)
+- [Day 02 - Python for Data Science](#day-02---python-for-data-science)
+- [Day 03 - NumPy: Numerical Computing](#day-03---numpy-numerical-computing)
+- [Day 04 - Pandas: Tabular Data](#day-04---pandas-tabular-data)
+- [Day 05 - Matplotlib & Week 1 Mini-Notebook](#day-05---Matplotlib-&-Week-01-Mini--Notebook)
 
 *A week of hands-on labs building the core Python data science toolkit from envvironment setup to fully visualized mini-project.*
 
@@ -17,7 +17,7 @@
 ----
 
 ## 📝Overview
-Week 1 covered the foundational stack for data work in Pythonstting up a reproducible environment, core Python syntax and OOP, then progressively layering in **NumPy** for numerical computing, **Pandas** for tabular data, and **Matplotlib** for visualization - culminating in an end-to-end min-noebook that loads, cleans, analyzees, and visualizes a real dataset.
+Week 1 covered the foundational stack for data work in Python setting up a reproducible environment, core Python syntax and OOP, then progressively layering in **NumPy** for numerical computing, **Pandas** for tabular data, and **Matplotlib** for visualization - culminating in an end-to-end min-notebook that loads, cleans, analyzees, and visualizes a real dataset.
 
 ## Structure
 
